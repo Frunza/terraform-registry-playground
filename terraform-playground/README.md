@@ -7,7 +7,7 @@ This Terraform module performs basic math operations (sum and difference) on two
 ```hcl
 module "myPlayground" {
   source  = "Frunza/terraform-registry-playground"
-  version = "1.0.0"
+  version = "0.0.1"
 
   number1 = 8
   number2 = 3
