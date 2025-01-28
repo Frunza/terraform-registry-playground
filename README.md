@@ -12,3 +12,4 @@ module "myPlayground" {
   number1 = 8
   number2 = 3
 }
+```
